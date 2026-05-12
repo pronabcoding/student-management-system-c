@@ -41,7 +41,7 @@ typedef struct {
 // Global Variables
 Student students[MAX_STUDENTS];
 int studentCount = 0;
-int nextId = 1;
+int nextId =1;
 
 // Function Declarations
 void clearScreen();
