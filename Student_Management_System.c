@@ -153,7 +153,7 @@ int main() {
                 break;
             case 11:
                 restoreFromBackup();
-                break;
+                break ;
             case 0:
                 printf("\n\tSaving data before exit...\n");
                 saveToFile();
