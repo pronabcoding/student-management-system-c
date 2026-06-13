@@ -174,7 +174,7 @@ void displayMainMenu() {
     clearScreen();
     printTitle("STUDENT MANAGEMENT SYSTEM");
     
-    printf("\n\t========================================================\n");
+    printf("\n\t=======================================================\n");
     printf("\t                    MAIN MENU\n");
     printf("\t========================================================\n");
     printf("\t  1.  Add New Student\n");
@@ -227,13 +227,13 @@ void displaySortMenu() {
     clearScreen();
     printTitle("SORT STUDENTS");
     
-    printf("\n\t========================================================\n");
+    printf("\n\t=======================================================\n");
     printf("\t  1. Sort by ID\n");
     printf("\t  2. Sort by Name\n");
     printf("\t  3. Sort by CGPA\n");
     printf("\t  4. Sort by Department\n");
     printf("\t  0. Back to Main Menu\n");
-    printf("\t========================================================\n");
+    printf("\t=======================================================\n");
     
     printf("\n\tEnter your choice: ");
     scanf("%d", &choice);
