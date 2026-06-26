@@ -187,7 +187,7 @@ void displayMainMenu() {
     printf("\t  8.  Reports & Statistics\n");
     printf("\t  9.  Save Data\n");
     printf("\t  10. Create Backup\n");
-    printf("\t  11. Restore from Backup\n");
+    printf("\t  11. Restore  from Backup\n");
     printf("\t  0.  Exit\n");
     printf("\t========================================================\n");
     printf("\n\t  Total Students: %d\n", studentCount);
