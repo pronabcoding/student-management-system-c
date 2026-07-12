@@ -169,7 +169,7 @@ int main() {
     return 0;
 }
 
-// DISPLAY MENU FUNCTIONS
+// DISPLAY  MENU FUNCTIONS
 void displayMainMenu() {
     clearScreen();
     printTitle("STUDENT MANAGEMENT SYSTEM");
